@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/checkstyle-5.9-all.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/StaffGitlet_obf.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/algs4-package.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/algs4.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/gjdb.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/jh61b.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/stdlib-package.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/stdlib.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/xchart-2.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/FrankZhao/Desktop/cs61b/ajs/lib/staffp0_obf.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
